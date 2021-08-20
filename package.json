@@ -1,0 +1,19 @@
+{
+  "name": "price_checking_app",
+  "version": "1.0.0",
+  "description": "check prices of wishlist items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
